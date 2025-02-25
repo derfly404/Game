@@ -1,0 +1,9 @@
+cách tải file:
+nhấn vào nút code màu xanh và ở mục HTTPS chọn Download ZIP để tải về
+
+cách giải nén:
+sau khi tải file về máy xong click chuột phải vào file rồi chọn WinRAR sau đó chọn Extract to "game\" là giải nén thành công
+
+cách để chạy game:
+vào file vừa giải nén xong kéo tệp game.exe ra màn hình máy tính mới chạy được
+!!!chúc bạn trải nghiệm game vui vẻ!!!
